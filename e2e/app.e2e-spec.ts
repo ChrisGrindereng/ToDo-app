@@ -1,10 +1,10 @@
-import { TodoAppPage } from './app.po';
+import { TodoPage } from './app.po';
 
-describe('todo-app App', function() {
-  let page: TodoAppPage;
+describe('todo App', function() {
+  let page: TodoPage;
 
   beforeEach(() => {
-    page = new TodoAppPage();
+    page = new TodoPage();
   });
 
   it('should display message saying app works', () => {
