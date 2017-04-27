@@ -6,6 +6,7 @@ This repository contains the source code for the [SitePoint](https://www.sitepoi
 
 Here is a [live demo](https://jvandemo.github.io/angular2-todo-app/) of the application.
 
+
 ## Development server
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
