@@ -1,12 +1,18 @@
 # Angular 2 Todo App
 
-This repository contains the source code for the [SitePoint](https://www.sitepoint.com) article ["Angular 2 Tutorial: Create a CRUD App with Angular CLI"](https://www.sitepoint.com/angular-2-tutorial) by [Todd Motto](https://twitter.com/toddmotto) and [Jurgen Van de Moere](https://twitter.com/jvandemo).
+- Built based off the SitePoint tutorial for creating a CRUD app with Angular 2. 
+
+- Updated and migrated from the older version of Angular 2 used in the tutorial to the newest 1.01 version that now uses web pack. 
+
+- The project also utilizes my own styling since none was provided in the tutorial. 
+
+- Create new Todos to build up a list, cross them off as completed, and delete selected items or the whole list.
 
 ## License
 
 The MIT License (MIT)
 
-Copyright (c) 2016 SitePoint
+Copyright (c) 2016 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
