@@ -1,50 +1,18 @@
 # Angular 2 Todo App
 
-This repository contains the source code for the [SitePoint](https://www.sitepoint.com) article ["Angular 2 Tutorial: Create a CRUD App with Angular CLI"](https://www.sitepoint.com/angular-2-tutorial) by [Todd Motto](https://twitter.com/toddmotto) and [Jurgen Van de Moere](https://twitter.com/jvandemo).
+- Built based off the SitePoint tutorial for creating a CRUD app with Angular 2. 
 
-![angular2-todo-app](https://cloud.githubusercontent.com/assets/1859381/16371153/f36fae94-3c44-11e6-96db-878901598c3a.gif)
+- Updated and migrated from the older version of Angular 2 used in the tutorial to the newest 1.01 version that now uses web pack. 
 
-Here is a [live demo](https://jvandemo.github.io/angular2-todo-app/) of the application.
+- The project also utilizes my own styling since none was provided in the tutorial. 
 
-## Development server
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive/pipe/service/route/class`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/). 
-Before running the tests make sure you are serving the app via `ng serve`.
-
-## Deploying to Github Pages
-
-Run `ng github-pages:deploy` to deploy to Github Pages.
-
-## Further help
-
-To get more help on the `angular-cli` use `ng --help` or go check out the [Angular-CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
-
-## Change log
-
-### v1.0.0
-
-- Version published with article
+- Create new Todos to build up a list, cross them off as completed, and delete selected items or the whole list.
 
 ## License
 
 The MIT License (MIT)
 
-Copyright (c) 2016 SitePoint
+Copyright (c) 2016 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
