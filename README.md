@@ -1,6 +1,6 @@
 # Angular 2 Todo App
 
-<img src=./screenshots/ToDo.png />
+<img src=./screenshots/Todo.png />
 
 - Built based off the SitePoint tutorial for creating a CRUD app with Angular 2. 
 
