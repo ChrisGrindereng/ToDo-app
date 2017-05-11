@@ -1,6 +1,6 @@
 # Angular 2 Todo App
 
-Live site link: https://chrisgrindereng.github.io/ToDo-app
+Live site link: https://chrisgrindereng.github.io/Todo_App/
 
 <img src=./screenshots/Todo.png />
 
